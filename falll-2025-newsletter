@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -11,10 +12,12 @@
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FFF6F8;">
       <tr>
         <td align="center" style="padding:0 10px;">
-          <!-- Main column stays narrower; cards inside are white -->
+          <!-- Main column -->
           <table role="presentation" width="640" cellpadding="0" cellspacing="0" border="0" style="width:640px; max-width:640px;">
 
-            <!-- HEADER (boxed, white) -->
+ 
+
+            <!-- ===== HEADER (boxed) ===== -->
             <tr>
               <td style="padding:22px 0;">
                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:10px;">
@@ -22,16 +25,15 @@
                   <tr>
                     <td style="height:6px; background:#EF436D; border-top-left-radius:10px; border-top-right-radius:10px; font-size:0; line-height:0;">&nbsp;</td>
                   </tr>
-                  <!-- Title + Date -->
+                  <!-- Title -->
                   <tr>
                     <td style="padding:18px 20px 6px 20px;">
                       <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                         <tr>
                           <td align="left" style="font-family:Arial,Helvetica,sans-serif; color:#C22032;">
-                            <div style="font-size:26px; font-weight:800; line-height:1.2;">Alpha Omicron Pi — NYC Alumnae</div>
-                            <div style="font-size:14px; color:#55565A;">Women Enriched Through Lifelong Friendship</div>
+                            <div style="font-size:26px; font-weight:800; line-height:1.2;">Alpha Omicron Pi • NYC Alumnae Chapter</div>
+                            <div style="font-size:14px; color:#55565A; margin-top:8px;">Fall 2025 Newsletter</div>
                           </td>
-                          <td align="right" style="font-family:Arial,Helvetica,sans-serif; color:#55565A; font-size:14px;">Fall 2025</td>
                         </tr>
                       </table>
                     </td>
@@ -50,13 +52,13 @@
               </td>
             </tr>
 
-            <!-- ===== From the President (white card) ===== -->
+            <!-- ===== From the President ===== -->
             <tr>
               <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
                 <div style="display:inline-block; font-family:Arial,Helvetica,sans-serif; font-size:12px; background:#EF436D; color:#fff; padding:5px 10px; border-radius:999px;">From the President</div>
                 <div style="height:12px; line-height:12px;">&nbsp;</div>
                 <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Hi, sisters!</div>
-                <div style="height:10px; line-height:10px;">&nbsp;</div>
+                <div style="height:10px;"></div>
                 <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#55565A;">
                   I can’t tell you how irrationally excited I am about our new official newsletter platform. Big thanks to <strong>Emily</strong> for making it happen!
                   This summer, <strong>Morgan, Barbara D., Adele, Susan, and I</strong> were proud to represent NYC AOII at International Convention, where we elected
@@ -71,7 +73,7 @@
               </td>
             </tr>
 
-            <!-- ROSE SEPARATOR (between sections only) -->
+            <!-- ROSE SEPARATOR -->
             <tr>
               <td align="center" style="padding:18px 0;">
                 <table role="presentation" cellpadding="0" cellspacing="0" border="0">
@@ -84,7 +86,7 @@
               </td>
             </tr>
 
-            <!-- ===== Officers (white card) ===== -->
+            <!-- ===== Officers ===== -->
             <tr>
               <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
                 <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">NYC AOII 2025 Officers</div>
@@ -113,14 +115,16 @@
               </td>
             </tr>
 
-            <!-- ===== New Members (white card) ===== -->
+            <!-- ===== New Members ===== -->
             <tr>
               <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
                 <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Welcome to Our New Members!</div>
                 <div style="height:12px;"></div>
-                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A;">
-                  <strong>Chiara Biddle • Emily Da Silva • Jenny Duffy • Megan Decker • Tricia Slatowski</strong>
-                  <br><br>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#333; font-weight:700;">
+                  Chiara Biddle • Emily Da Silva • Jenny Duffy • Megan Decker • Tricia Slatowski
+                </div>
+                <div style="height:12px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#55565A; line-height:1.6;">
                   Who do you know? We’d love to welcome more AOIIs to our chapter! PNMs are always welcome at chapter events.
                 </div>
               </td>
@@ -139,126 +143,195 @@
               </td>
             </tr>
 
-           <!-- ===== Upcoming Events (white card) ===== -->
-<tr>
-  <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Upcoming Events</div>
+            <!-- ===== Upcoming Events (with date chips) ===== -->
+            <tr>
+              <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Upcoming Events</div>
 
-    <!-- NOVEMBER -->
-    <div style="height:12px;"></div>
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#EF436D; font-weight:800; letter-spacing:.5px;">NOVEMBER</div>
-    <div style="height:6px;"></div>
+                <!-- NOVEMBER -->
+                <div style="height:12px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; color:#FFFFFF; background:#EF436D; display:inline-block; padding:8px 14px; border-radius:999px; font-weight:800; letter-spacing:.6px;">
+                  NOVEMBER
+                </div>
+                <div style="height:10px;"></div>
 
-    <!-- Mon 11/3 – AOII Friendsgiving -->
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
-      Monday 11/3 6:30–8 PM — AOII FRIENDSGIVING
-    </div>
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
-      • @ Chez Maria: apartment in East Harlem. Address shared after RSVP<br>
-      • Please bring a dish to share! Holiday punch (alcoholic) &amp; green bean casserole will be provided.
-      <div style="margin-top:6px;">
-        <a href="mailto:nycapsocial@gmail.com?subject=RSVP%20AOII%20Friendsgiving%2011%2F3"
-           style="color:#C22032; text-decoration:none; font-weight:700;">RSVP / More info →</a>
-      </div>
-    </div>
+                <!-- 11/3 -->
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 14px 0;">
+                  <tr>
+                    <td valign="top" width="150" style="width:150px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="left">
+                        <tr>
+                          <td align="center" style="font-family:Arial,Helvetica,sans-serif; border:2px solid #EF436D; border-radius:10px; padding:10px 12px;">
+                            <div style="font-size:12px; color:#EF436D; font-weight:800; text-transform:uppercase;">Mon</div>
+                            <div style="font-size:22px; color:#C22032; font-weight:800; line-height:1;">11/3</div>
+                            <div style="font-size:12px; color:#55565A; font-weight:700;">6:30–8 PM</div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td valign="top" style="font-family:Arial,Helvetica,sans-serif;">
+                      <div style="font-size:15px; color:#C22032; font-weight:800;">AOII FRIENDSGIVING</div>
+                      <div style="font-size:14px; color:#55565A; line-height:1.6;">
+                        • @ Chez Maria (East Harlem). Address shared after RSVP.<br>
+                        • Please bring a dish to share! RSVP using link below.
+                      </div>
+                      <div style="margin-top:8px;">
+                        <a href="https://fb.me/e/66HlcXNcx" style="color:#C22032; text-decoration:none; font-weight:700;">RSVP →</a>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
 
-    <div style="height:14px;"></div>
+                <!-- 11/10 -->
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 14px 0;">
+                  <tr>
+                    <td valign="top" width="150" style="width:150px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="left">
+                        <tr>
+                          <td align="center" style="font-family:Arial,Helvetica,sans-serif; border:2px solid #EF436D; border-radius:10px; padding:10px 12px;">
+                            <div style="font-size:12px; color:#EF436D; font-weight:800; text-transform:uppercase;">Mon</div>
+                            <div style="font-size:22px; color:#C22032; font-weight:800; line-height:1;">11/10</div>
+                            <div style="font-size:12px; color:#55565A; font-weight:700;">6:00 PM</div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td valign="top" style="font-family:Arial,Helvetica,sans-serif;">
+                      <div style="font-size:15px; color:#C22032; font-weight:800;">Toast on the 10<sup style="font-size:11px;">th</sup> - Monthly Happy Hour</div>
+                      <div style="font-size:14px; color:#55565A; line-height:1.6;">
+                        • @ Grove Street Social: 61 Grove St, New York, NY 10014<br>
+                        • Food &amp; drink specials available ’til 12 AM!
+                      </div>
+                      <div style="margin-top:8px;">
+                        <a href="https://maps.google.com/?q=Grove%20Street%20Social%2C%2061%20Grove%20St%2C%20New%20York%2C%20NY%2010014" style="color:#C22032; text-decoration:none; font-weight:700;">Map →</a>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
 
-    <!-- Mon 11/10 – Toast on the 10th HH -->
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
-      Monday 11/10 6 PM — Toast on the 10<sup style="font-size:11px;">th</sup> Monthly Happy Hour
-    </div>
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
-      • @ Grove Street Social: 61 Grove St, New York, NY 10014<br>
-      • Food &amp; drink specials available ’til 12 AM!
-      <div style="margin-top:6px;">
-        <a href="https://maps.google.com/?q=Grove%20Street%20Social%2C%2061%20Grove%20St%2C%20New%20York%2C%20NY%2010014"
-           style="color:#C22032; text-decoration:none; font-weight:700;">Map →</a>
-        &nbsp;•&nbsp;
-        <a href="mailto:nycapsocial@gmail.com?subject=Info%20Toast%20on%20the%2010th%2011%2F10"
-           style="color:#C22032; text-decoration:none; font-weight:700;">More info →</a>
-      </div>
-    </div>
+                <!-- 11/16 -->
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 14px 0;">
+                  <tr>
+                    <td valign="top" width="150" style="width:150px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="left">
+                        <tr>
+                          <td align="center" style="font-family:Arial,Helvetica,sans-serif; border:2px solid #EF436D; border-radius:10px; padding:10px 12px;">
+                            <div style="font-size:12px; color:#EF436D; font-weight:800; text-transform:uppercase;">Sun</div>
+                            <div style="font-size:22px; color:#C22032; font-weight:800; line-height:1;">11/16</div>
+                            <div style="font-size:12px; color:#55565A; font-weight:700;">5:00 PM</div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td valign="top" style="font-family:Arial,Helvetica,sans-serif;">
+                      <div style="font-size:15px; color:#C22032; font-weight:800;">NYCAP FRIENDSGIVING</div>
+                      <div style="font-size:14px; color:#55565A; line-height:1.6;">
+                        • NYCAP Event. Email RSVP to nycapsocial@gmail.com for location.<br>
+                        • Catered meal. Drinks are BYOB!
+                      </div>
+                      <div style="margin-top:8px;">
+                        <a href="mailto:nycapsocial@gmail.com?subject=RSVP%20NYCAP%20Friendsgiving%2011%2F16" style="color:#C22032; text-decoration:none; font-weight:700;">RSVP / More info →</a>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
 
-    <div style="height:14px;"></div>
+                <!-- 11/23 -->
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 14px 0;">
+                  <tr>
+                    <td valign="top" width="150" style="width:150px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="left">
+                        <tr>
+                          <td align="center" style="font-family:Arial,Helvetica,sans-serif; border:2px solid #EF436D; border-radius:10px; padding:10px 12px;">
+                            <div style="font-size:12px; color:#EF436D; font-weight:800; text-transform:uppercase;">Sun</div>
+                            <div style="font-size:22px; color:#C22032; font-weight:800; line-height:1;">11/23</div>
+                            <div style="font-size:12px; color:#55565A; font-weight:700;">11:00 AM</div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td valign="top" style="font-family:Arial,Helvetica,sans-serif;">
+                      <div style="font-size:15px; color:#C22032; font-weight:800;">NYCAP Scene Brunch</div>
+                      <div style="font-size:14px; color:#55565A; line-height:1.6;">
+                        • @ Sadelle’s Soho: 463 W Broadway, New York, NY 10012<br>
+                        • NYCAP Event. Email RSVP to nycapsocial@gmail.com
+                      </div>
+                      <div style="margin-top:8px;">
+                        <a href="https://maps.google.com/?q=Sadelle%E2%80%99s%20Soho%2C%20463%20W%20Broadway%2C%20New%20York%2C%20NY%2010012" style="color:#C22032; text-decoration:none; font-weight:700;">Map →</a>
+                        &nbsp;•&nbsp;
+                        <a href="mailto:nycapsocial@gmail.com?subject=RSVP%20NYCAP%20Scene%20Brunch%2011%2F23" style="color:#C22032; text-decoration:none; font-weight:700;">RSVP / More info →</a>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
 
-    <!-- Sun 11/16 – NYCAP Friendsgiving -->
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
-      Sunday 11/16 5 PM — NYCAP FRIENDSGIVING
-    </div>
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
-      • NYCAP Event. Email RSVP to nycapsocial@gmail.com for location.<br>
-      • Catered meal. Drinks are BYOB!
-      <div style="margin-top:6px;">
-        <a href="mailto:nycapsocial@gmail.com?subject=RSVP%20NYCAP%20Friendsgiving%2011%2F16"
-           style="color:#C22032; text-decoration:none; font-weight:700;">RSVP / More info →</a>
-      </div>
-    </div>
+                <!-- DECEMBER -->
+                <div style="height:18px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; color:#FFFFFF; background:#EF436D; display:inline-block; padding:8px 14px; border-radius:999px; font-weight:800; letter-spacing:.6px;">
+                  DECEMBER
+                </div>
+                <div style="height:10px;"></div>
 
-    <div style="height:14px;"></div>
+                <!-- 12/10 -->
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 14px 0;">
+                  <tr>
+                    <td valign="top" width="150" style="width:150px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="left">
+                        <tr>
+                          <td align="center" style="font-family:Arial,Helvetica,sans-serif; border:2px solid #EF436D; border-radius:10px; padding:10px 12px;">
+                            <div style="font-size:12px; color:#EF436D; font-weight:800; text-transform:uppercase;">Wed</div>
+                            <div style="font-size:22px; color:#C22032; font-weight:800; line-height:1;">12/10</div>
+                            <div style="font-size:12px; color:#55565A; font-weight:700;">6:00 PM</div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td valign="top" style="font-family:Arial,Helvetica,sans-serif;">
+                      <div style="font-size:15px; color:#C22032; font-weight:800;">Toast on the 10<sup style="font-size:11px;">th</sup> - Monthly Happy Hour</div>
+                      <div style="font-size:14px; color:#55565A; line-height:1.6;">
+                        • @ La Grande Boucherie: 145 W 53rd St, New York, NY 10019<br>
+                        • Near Rockefeller Center to see the tree after!<br>
+                        • Food &amp; drink specials available ’til 7 PM
+                      </div>
+                      <div style="margin-top:8px;">
+                        <a href="https://maps.google.com/?q=La%20Grande%20Boucherie%2C%20145%20W%2053rd%20St%2C%20New%20York%2C%20NY%2010019" style="color:#C22032; text-decoration:none; font-weight:700;">Map →</a>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
 
-    <!-- Sun 11/23 – NYCAP Scene Brunch -->
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
-      Sunday 11/23 11 AM — NYCAP Scene Brunch
-    </div>
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
-      • @ Sadelle’s Soho: 463 W Broadway, New York, NY 10012<br>
-      • NYCAP Event. Email RSVP to nycapsocial@gmail.com
-      <div style="margin-top:6px;">
-        <a href="https://maps.google.com/?q=Sadelle%E2%80%99s%20Soho%2C%20463%20W%20Broadway%2C%20New%20York%2C%20NY%2010012"
-           style="color:#C22032; text-decoration:none; font-weight:700;">Map →</a>
-        &nbsp;•&nbsp;
-        <a href="mailto:nycapsocial@gmail.com?subject=RSVP%20NYCAP%20Scene%20Brunch%2011%2F23"
-           style="color:#C22032; text-decoration:none; font-weight:700;">RSVP / More info →</a>
-      </div>
-    </div>
+                <!-- 12/14 -->
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td valign="top" width="150" style="width:150px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="left">
+                        <tr>
+                          <td align="center" style="font-family:Arial,Helvetica,sans-serif; border:2px solid #EF436D; border-radius:10px; padding:10px 12px;">
+                            <div style="font-size:12px; color:#EF436D; font-weight:800; text-transform:uppercase;">Sun</div>
+                            <div style="font-size:22px; color:#C22032; font-weight:800; line-height:1;">12/14</div>
+                            <div style="font-size:12px; color:#55565A; font-weight:700;">3:00 PM</div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td valign="top" style="font-family:Arial,Helvetica,sans-serif;">
+                      <div style="font-size:15px; color:#C22032; font-weight:800;">AOII Holiday Party</div>
+                      <div style="font-size:14px; color:#55565A; line-height:1.6;">
+                        • Save the date for a winter holiday celebration!<br>
+                        • Location &amp; details coming soon!
+                      </div>
+                    </td>
+                  </tr>
+                </table>
 
-    <!-- DECEMBER -->
-    <div style="height:22px;"></div>
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#EF436D; font-weight:800; letter-spacing:.5px;">DECEMBER</div>
-    <div style="height:6px;"></div>
-
-    <!-- Wed 12/10 – Toast on the 10th HH -->
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
-      Wednesday 12/10 6 PM — Toast on the 10<sup style="font-size:11px;">th</sup> Monthly Happy Hour
-    </div>
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
-      • @ La Grande Boucherie: 145 W 53rd St, New York, NY 10019<br>
-      • Near Rockefeller Center to see the tree after!<br>
-      • Food &amp; drink specials available ’til 7 PM
-      <div style="margin-top:6px;">
-        <a href="https://maps.google.com/?q=La%20Grande%20Boucherie%2C%20145%20W%2053rd%20St%2C%20New%20York%2C%20NY%2010019"
-           style="color:#C22032; text-decoration:none; font-weight:700;">Map →</a>
-        &nbsp;•&nbsp;
-        <a href="mailto:nycapsocial@gmail.com?subject=Info%20Toast%20on%20the%2010th%2012%2F10"
-           style="color:#C22032; text-decoration:none; font-weight:700;">More info →</a>
-      </div>
-    </div>
-
-    <div style="height:14px;"></div>
-
-    <!-- Sun 12/14 – AOII Holiday Party -->
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
-      Sunday 12/14 3 PM — AOII Holiday Party
-    </div>
-    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
-      • Save the date for a winter holiday celebration!<br>
-      • Location &amp; details coming soon!
-      <div style="margin-top:6px;">
-        <a href="mailto:nycapsocial@gmail.com?subject=Info%20AOII%20Holiday%20Party%2012%2F14"
-           style="color:#C22032; text-decoration:none; font-weight:700;">Get updates / More info →</a>
-      </div>
-    </div>
-
-    <!-- Optional global CTA -->
-    <div style="height:18px;"></div>
-    <a href="https://facebook.com/groups/nycaoii" target="_blank"
-       style="background:#EB6851; color:#ffffff; text-decoration:none; padding:12px 18px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">
-       See Full Calendar & RSVP
-    </a>
-  </td>
-</tr>
-
+                <!-- Global CTA -->
+                <div style="height:18px;"></div>
+                <a href="https://drive.google.com/uc?export=view&id=1_bInnxd2DYVIB8_I_KRSTSaXSLQtYhZC" target="_blank"
+                   style="background:#EB6851; color:#ffffff; text-decoration:none; padding:12px 18px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">
+                   View Full Event Calendar
+                </a>
+              </td>
+            </tr>
 
             <!-- ROSE SEPARATOR -->
             <tr>
@@ -273,17 +346,74 @@
               </td>
             </tr>
 
-            <!-- ===== Recent Highlights (white card) ===== -->
+            <!-- ===== Recent Highlights (with photo slots) ===== -->
             <tr>
               <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
                 <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Recent Highlights</div>
+
+                <!-- Convention (2 photos) -->
                 <div style="height:12px;"></div>
-                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
-                  🍸 Happy Hour Kickoff — great turnout and reconnections.<br>
-                  🗣️ Fall Chapter Meeting — bylaws &amp; budget approved; officer team launched.<br>
-                  💖 Supporting Alpha Chapter Philanthropy — sisters joined to raise funds for arthritis research.
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#EF436D; font-weight:800; letter-spacing:.3px;">2025 International Convention</div>
+                <div style="height:8px;"></div>
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td valign="top" width="50%" style="width:50%; padding-right:6px;">
+                      <img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/barbara%20convention.jpeg"
+                           alt="Barbara at AOII International Convention"
+                           width="290"
+                           style="display:block; width:100%; max-width:290px; height:auto; border:0; border-radius:6px;">
+                    </td>
+                    <td valign="top" width="50%" style="width:50%; padding-left:6px;">
+                      <img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/convention%20image%202.jpeg"
+                           alt="NYC AOII sisters at Convention — group photo"
+                           width="290"
+                           style="display:block; width:100%; max-width:290px; height:auto; border:0; border-radius:6px;">
+                    </td>
+                  </tr>
+                </table>
+
+                <!-- Fall Kickoff (1 photo) -->
+                <div style="height:16px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#EF436D; font-weight:800; letter-spacing:.3px;">Fall Chapter Kickoff Meeting</div>
+                <div style="height:8px;"></div>
+                <img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/Fall%20meeting%20.png"
+                     alt="Fall Chapter Kickoff Meeting"
+                     width="600"
+                     style="display:block; width:100%; max-width:600px; height:auto; border:0; border-radius:6px;">
+
+                <!-- October HH (no photos) -->
+                <div style="height:16px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#EF436D; font-weight:800; letter-spacing:.3px;">October Monthly Happy Hour 🥂🍂 </div>
+                <div style="height:6px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A;">
+                  Great turnout and lots of fun — thanks for joining!
                 </div>
-                <div style="font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#55565A;"><em>[ Photo placeholders — drop in 2–3 images here ]</em></div>
+
+                <!-- Philanthropies (two photos) -->
+                <div style="height:16px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#EF436D; font-weight:800; letter-spacing:.3px;">
+                  Supporting Alpha Chapter Philanthropies
+                </div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; color:#55565A;">
+                  Strike Out Arthritis® Baseball Game &amp; Run for Roses
+                </div>
+                <div style="height:8px;"></div>
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td valign="top" width="50%" style="width:50%; padding-right:6px;">
+                      <img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/yankees%20game.jpeg"
+                           alt="Strike Out Arthritis baseball game"
+                           width="290"
+                           style="display:block; width:100%; max-width:290px; height:auto; border:0; border-radius:6px;">
+                    </td>
+                    <td valign="top" width="50%" style="width:50%; padding-left:6px;">
+                      <img src="REPLACE_WITH_RUN_FOR_ROSES_RAW_URL"
+                           alt="Run for Roses philanthropy event"
+                           width="290"
+                           style="display:block; width:100%; max-width:290px; height:auto; border:0; border-radius:6px;">
+                    </td>
+                  </tr>
+                </table>
               </td>
             </tr>
 
@@ -300,7 +430,7 @@
               </td>
             </tr>
 
-            <!-- ===== Foundation (white card) ===== -->
+            <!-- ===== Foundation Update ===== -->
             <tr>
               <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -316,27 +446,159 @@
                         <strong>Fraternity Grants — Empowering Sisters to Become Leaders:</strong> Benefits collegians and alumnae with impactful leadership programming.
                       </div>
                       <div style="height:12px;"></div>
-                      <a href="#" target="_blank" style="background:#EB6851; color:#ffffff; text-decoration:none; padding:12px 18px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">Learn More / Give</a>
+                      <a href="https://www.alphaomicronpi.org/foundation/ways-to-give/" target="_blank" style="background:#EB6851; color:#ffffff; text-decoration:none; padding:12px 18px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">Learn More / Give</a>
                       <div style="height:12px;"></div>
                       <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A;">Questions? Barbara Dannenberg serves on the Foundation Board and is happy to talk about all things AOII.</div>
-                    </td>
-                    <td width="72" align="right" valign="top">
-                      <img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="56" height="56" alt="" style="display:block; opacity:.12; border:0;">
                     </td>
                   </tr>
                 </table>
               </td>
             </tr>
 
-            <!-- FOOTER (pink background still visible outside) -->
+            <!-- ROSE SEPARATOR -->
             <tr>
-              <td align="center" style="padding:22px 10px 30px 10px; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#55565A;">
-                <div style="margin-bottom:8px;">
-                  <strong>Instagram:</strong> <a href="https://www.instagram.com/nycaoii" style="color:#C22032; text-decoration:none;">@nycaoii</a> &nbsp; • &nbsp;
-                  <strong>Facebook Group:</strong> <a href="#" style="color:#C22032; text-decoration:none;">NYC AOII Alumnae Chapter</a> &nbsp; • &nbsp;
-                  <strong>Email:</strong> <a href="mailto:nycappresident@gmail.com" style="color:#C22032; text-decoration:none;">nycappresident@gmail.com</a>
+              <td align="center" style="padding:18px 0;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ===== Volunteer Opportunities (white card) ===== -->
+            <tr>
+              <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
+                <!-- Title -->
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:800;">
+                  Volunteer Opportunities 🌟
                 </div>
-                © NYC AOII Alumnae Chapter • Inspire Ambition
+                <div style="height:10px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+                  Looking for ways to give back this season? The <strong>Arthritis Foundation</strong> is seeking volunteers for several upcoming events in the NYC and Long Island area. AOII alumnae are invited to help support local initiatives!
+                </div>
+
+                <div style="height:16px;"></div>
+
+                <!-- Subheading: Day-of Events -->
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#EF436D; font-weight:700; letter-spacing:.3px;">
+                  Day-of Volunteer Opportunities
+                </div>
+
+                <div style="height:6px;"></div>
+
+                <!-- Event List -->
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+                  <strong>🏃‍♀️ 2025 TCS NYC Marathon:</strong><br>
+                  Sunday, <strong>Nov 2</strong> • 197 Bedford Ave, Brooklyn
+                  <br><br>
+
+                  <strong>🎄 Jingle Bell Run — Long Island:</strong><br>
+                  Saturday, <strong>Dec 6</strong> • Hofstra University<br>
+                  <a href="https://www.jbr.org/longisland" target="_blank" style="color:#C22032; text-decoration:none; font-weight:700;">www.jbr.org/longisland →</a>
+                  <br><br>
+
+                  <strong>🎅 Jingle Bell Run — Westchester:</strong><br>
+                  Saturday, <strong>Dec 13</strong> • Manhattanville University<br>
+                  <a href="https://www.jbr.org/westchester" target="_blank" style="color:#C22032; text-decoration:none; font-weight:700;">www.jbr.org/westchester →</a>
+                  <br><br>
+
+                  <strong>🚶‍♀️ Walk to Cure Arthritis — Long Island & NYC (TBD):</strong><br>
+                  Dates and details coming soon.
+                </div>
+
+                <div style="height:16px;"></div>
+
+                <!-- Subheading: Ongoing Opportunities -->
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#EF436D; font-weight:700; letter-spacing:.3px;">
+                  Ongoing Volunteer Roles
+                </div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+                  • <strong>Jingle Bell Run Committees</strong><br>
+                  • <strong>Walk to Cure Arthritis Committees</strong>
+                </div>
+
+                <div style="height:18px;"></div>
+
+                <!-- CTA Buttons -->
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center">
+                  <tr>
+                    <td style="padding:6px;">
+                      <a href="mailto:mksmith@arthritis.org?subject=Volunteer%20with%20Arthritis%20Foundation&body=Hi%20MaryKate%2C%20I%E2%80%99d%20like%20to%20volunteer%20for%3A%20%5Bchoose%3A%20NYC%20Marathon%2C%20Long%20Island%20Run%2C%20Westchester%2C%20Walk%20to%20Cure%20Arthritis%2C%20Committee%20role%5D."
+                         style="background:#EB6851; color:#ffffff; text-decoration:none; padding:12px 20px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">
+                        ✉️ Email MaryKate to Volunteer
+                      </a>
+                    </td>
+                    <td style="padding:6px;">
+                      <a href="https://www.arthritis.org/volunteer" target="_blank"
+                         style="background:#C22032; color:#ffffff; text-decoration:none; padding:12px 20px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">
+                        🌹 Learn More
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ROSE SEPARATOR -->
+            <tr>
+              <td align="center" style="padding:18px 0;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ===== Social Buttons (separate card) ===== -->
+            <tr>
+              <td align="center" style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700; margin-bottom:10px;">
+                  Stay Connected 🌹
+                </div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; margin-bottom:16px;">
+                  Follow us and stay in touch across our alumnae channels!
+                </div>
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding:5px;">
+                      <a href="https://www.instagram.com/nycaoii" target="_blank"
+                         style="background:#E4405F; color:#ffffff; text-decoration:none; padding:12px 18px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">
+                        📱 Instagram
+                      </a>
+                    </td>
+                    <td style="padding:5px;">
+                      <a href="https://www.facebook.com/groups/nycaoii" target="_blank"
+                         style="background:#1877F2; color:#ffffff; text-decoration:none; padding:12px 18px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">
+                        🤝 Facebook Group
+                      </a>
+                    </td>
+                    <td style="padding:5px;">
+                      <a href="https://groupme.com/join_group/105461907/gOHKh6qJ" target="_blank"
+                         style="background:#00B2FF; color:#ffffff; text-decoration:none; padding:12px 18px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">
+                        💬 GroupMe
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ===== FOOTER ===== -->
+            <tr>
+              <td align="center" style="padding:22px 10px 8px 10px; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#55565A;">
+ 
+                <div style="margin-bottom:8px;">
+                  <strong>Instagram:</strong> <a href="https://www.instagram.com/nycaoii" style="color:#C22032; text-decoration:none;">@nycaoii</a>
+                  &nbsp;•&nbsp; <strong>Facebook Group:</strong> <a href="https://facebook.com/groups/nycaoii" style="color:#C22032; text-decoration:none;">NYC AOII Alumnae Chapter</a>
+                  &nbsp;•&nbsp; <strong>Email:</strong> <a href="mailto:nycaoiialum@gmail.com" style="color:#C22032; text-decoration:none;">nycaoiialum@gmail.com</a>
+                </div>
+                NYC AOII Alumnae Chapter • Inspire Ambition
               </td>
             </tr>
 
@@ -344,5 +606,8 @@
         </td>
       </tr>
     </table>
+
+   
+
   </body>
 </html>
