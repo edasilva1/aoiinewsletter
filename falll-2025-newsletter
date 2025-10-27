@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>NYC AOII Alumnae Newsletter — Fall 2025</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+  <!-- Light light pink page background -->
+  <body style="margin:0; padding:0; background:#FFF6F8;">
+    <!-- Full width container with the same pink -->
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FFF6F8;">
+      <tr>
+        <td align="center" style="padding:0 10px;">
+          <!-- Main column stays narrower; cards inside are white -->
+          <table role="presentation" width="640" cellpadding="0" cellspacing="0" border="0" style="width:640px; max-width:640px;">
+
+            <!-- HEADER (boxed, white) -->
+            <tr>
+              <td style="padding:22px 0;">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:10px;">
+                  <!-- Accent bar -->
+                  <tr>
+                    <td style="height:6px; background:#EF436D; border-top-left-radius:10px; border-top-right-radius:10px; font-size:0; line-height:0;">&nbsp;</td>
+                  </tr>
+                  <!-- Title + Date -->
+                  <tr>
+                    <td style="padding:18px 20px 6px 20px;">
+                      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td align="left" style="font-family:Arial,Helvetica,sans-serif; color:#C22032;">
+                            <div style="font-size:26px; font-weight:800; line-height:1.2;">Alpha Omicron Pi — NYC Alumnae</div>
+                            <div style="font-size:14px; color:#55565A;">Women Enriched Through Lifelong Friendship</div>
+                          </td>
+                          <td align="right" style="font-family:Arial,Helvetica,sans-serif; color:#55565A; font-size:14px;">Fall 2025</td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <!-- Skyline -->
+                  <tr>
+                    <td style="padding:10px 20px 20px 20px;">
+                      <img
+                        src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/NYC%20skyline%20header%20pink.png"
+                        alt="NYC skyline line art"
+                        width="600"
+                        style="display:block; width:100%; max-width:600px; height:auto; border:0; outline:none; text-decoration:none; margin:0 auto;">
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ===== From the President (white card) ===== -->
+            <tr>
+              <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
+                <div style="display:inline-block; font-family:Arial,Helvetica,sans-serif; font-size:12px; background:#EF436D; color:#fff; padding:5px 10px; border-radius:999px;">From the President</div>
+                <div style="height:12px; line-height:12px;">&nbsp;</div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Hi, sisters!</div>
+                <div style="height:10px; line-height:10px;">&nbsp;</div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6; color:#55565A;">
+                  I can’t tell you how irrationally excited I am about our new official newsletter platform. Big thanks to <strong>Emily</strong> for making it happen!
+                  This summer, <strong>Morgan, Barbara D., Adele, Susan, and I</strong> were proud to represent NYC AOII at International Convention, where we elected
+                  <strong>Barbara Dannenberg</strong> to a second term on the <strong>AOII Foundation Board</strong>. Congratulations, Barbara, and thank you for your service!
+                  <br><br>
+                  Since then, we’ve welcomed four new members, approved bylaws and a budget, and kicked off a new officer team. We’re also working on a fundraising project
+                  (you should have seen a note about this last Friday—more details coming!). Looking forward to seeing everyone at our fall events! Have ideas or questions?
+                  Email me anytime or start a discussion in GroupMe.
+                  <br><br>
+                  <em>ALAM,</em><br><strong>Lizzy Klein</strong>, President
+                </div>
+              </td>
+            </tr>
+
+            <!-- ROSE SEPARATOR (between sections only) -->
+            <tr>
+              <td align="center" style="padding:18px 0;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ===== Officers (white card) ===== -->
+            <tr>
+              <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">NYC AOII 2025 Officers</div>
+                <div style="height:12px;"></div>
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A;">
+                  <tr><td style="padding:6px 0; width:45%;"><strong>President</strong></td><td>Lizzy Klein</td></tr>
+                  <tr><td style="padding:6px 0;"><strong>VP Membership</strong></td><td>Caroline Prichard</td></tr>
+                  <tr><td style="padding:6px 0;"><strong>NYC Panhellenic Rep</strong></td><td>Barbara Woods</td></tr>
+                  <tr><td style="padding:6px 0;"><strong>Treasurer</strong></td><td>Barbara Dannenberg</td></tr>
+                  <tr><td style="padding:6px 0;"><strong>Director of Events</strong></td><td>Chiara Biddle</td></tr>
+                  <tr><td style="padding:6px 0;"><strong>Director of Communications</strong></td><td>Emily Da Silva</td></tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ROSE SEPARATOR -->
+            <tr>
+              <td align="center" style="padding:18px 0;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ===== New Members (white card) ===== -->
+            <tr>
+              <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Welcome to Our New Members!</div>
+                <div style="height:12px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A;">
+                  <strong>Chiara Biddle • Emily Da Silva • Jenny Duffy • Megan Decker • Tricia Slatowski</strong>
+                  <br><br>
+                  Who do you know? We’d love to welcome more AOIIs to our chapter! PNMs are always welcome at chapter events.
+                </div>
+              </td>
+            </tr>
+
+            <!-- ROSE SEPARATOR -->
+            <tr>
+              <td align="center" style="padding:18px 0;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+           <!-- ===== Upcoming Events (white card) ===== -->
+<tr>
+  <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Upcoming Events</div>
+
+    <!-- NOVEMBER -->
+    <div style="height:12px;"></div>
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#EF436D; font-weight:800; letter-spacing:.5px;">NOVEMBER</div>
+    <div style="height:6px;"></div>
+
+    <!-- Mon 11/3 – AOII Friendsgiving -->
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
+      Monday 11/3 6:30–8 PM — AOII FRIENDSGIVING
+    </div>
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+      • @ Chez Maria: apartment in East Harlem. Address shared after RSVP<br>
+      • Please bring a dish to share! Holiday punch (alcoholic) &amp; green bean casserole will be provided.
+      <div style="margin-top:6px;">
+        <a href="mailto:nycapsocial@gmail.com?subject=RSVP%20AOII%20Friendsgiving%2011%2F3"
+           style="color:#C22032; text-decoration:none; font-weight:700;">RSVP / More info →</a>
+      </div>
+    </div>
+
+    <div style="height:14px;"></div>
+
+    <!-- Mon 11/10 – Toast on the 10th HH -->
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
+      Monday 11/10 6 PM — Toast on the 10<sup style="font-size:11px;">th</sup> Monthly Happy Hour
+    </div>
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+      • @ Grove Street Social: 61 Grove St, New York, NY 10014<br>
+      • Food &amp; drink specials available ’til 12 AM!
+      <div style="margin-top:6px;">
+        <a href="https://maps.google.com/?q=Grove%20Street%20Social%2C%2061%20Grove%20St%2C%20New%20York%2C%20NY%2010014"
+           style="color:#C22032; text-decoration:none; font-weight:700;">Map →</a>
+        &nbsp;•&nbsp;
+        <a href="mailto:nycapsocial@gmail.com?subject=Info%20Toast%20on%20the%2010th%2011%2F10"
+           style="color:#C22032; text-decoration:none; font-weight:700;">More info →</a>
+      </div>
+    </div>
+
+    <div style="height:14px;"></div>
+
+    <!-- Sun 11/16 – NYCAP Friendsgiving -->
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
+      Sunday 11/16 5 PM — NYCAP FRIENDSGIVING
+    </div>
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+      • NYCAP Event. Email RSVP to nycapsocial@gmail.com for location.<br>
+      • Catered meal. Drinks are BYOB!
+      <div style="margin-top:6px;">
+        <a href="mailto:nycapsocial@gmail.com?subject=RSVP%20NYCAP%20Friendsgiving%2011%2F16"
+           style="color:#C22032; text-decoration:none; font-weight:700;">RSVP / More info →</a>
+      </div>
+    </div>
+
+    <div style="height:14px;"></div>
+
+    <!-- Sun 11/23 – NYCAP Scene Brunch -->
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
+      Sunday 11/23 11 AM — NYCAP Scene Brunch
+    </div>
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+      • @ Sadelle’s Soho: 463 W Broadway, New York, NY 10012<br>
+      • NYCAP Event. Email RSVP to nycapsocial@gmail.com
+      <div style="margin-top:6px;">
+        <a href="https://maps.google.com/?q=Sadelle%E2%80%99s%20Soho%2C%20463%20W%20Broadway%2C%20New%20York%2C%20NY%2010012"
+           style="color:#C22032; text-decoration:none; font-weight:700;">Map →</a>
+        &nbsp;•&nbsp;
+        <a href="mailto:nycapsocial@gmail.com?subject=RSVP%20NYCAP%20Scene%20Brunch%2011%2F23"
+           style="color:#C22032; text-decoration:none; font-weight:700;">RSVP / More info →</a>
+      </div>
+    </div>
+
+    <!-- DECEMBER -->
+    <div style="height:22px;"></div>
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#EF436D; font-weight:800; letter-spacing:.5px;">DECEMBER</div>
+    <div style="height:6px;"></div>
+
+    <!-- Wed 12/10 – Toast on the 10th HH -->
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
+      Wednesday 12/10 6 PM — Toast on the 10<sup style="font-size:11px;">th</sup> Monthly Happy Hour
+    </div>
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+      • @ La Grande Boucherie: 145 W 53rd St, New York, NY 10019<br>
+      • Near Rockefeller Center to see the tree after!<br>
+      • Food &amp; drink specials available ’til 7 PM
+      <div style="margin-top:6px;">
+        <a href="https://maps.google.com/?q=La%20Grande%20Boucherie%2C%20145%20W%2053rd%20St%2C%20New%20York%2C%20NY%2010019"
+           style="color:#C22032; text-decoration:none; font-weight:700;">Map →</a>
+        &nbsp;•&nbsp;
+        <a href="mailto:nycapsocial@gmail.com?subject=Info%20Toast%20on%20the%2010th%2012%2F10"
+           style="color:#C22032; text-decoration:none; font-weight:700;">More info →</a>
+      </div>
+    </div>
+
+    <div style="height:14px;"></div>
+
+    <!-- Sun 12/14 – AOII Holiday Party -->
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:15px; color:#C22032; font-weight:700;">
+      Sunday 12/14 3 PM — AOII Holiday Party
+    </div>
+    <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+      • Save the date for a winter holiday celebration!<br>
+      • Location &amp; details coming soon!
+      <div style="margin-top:6px;">
+        <a href="mailto:nycapsocial@gmail.com?subject=Info%20AOII%20Holiday%20Party%2012%2F14"
+           style="color:#C22032; text-decoration:none; font-weight:700;">Get updates / More info →</a>
+      </div>
+    </div>
+
+    <!-- Optional global CTA -->
+    <div style="height:18px;"></div>
+    <a href="https://facebook.com/groups/nycaoii" target="_blank"
+       style="background:#EB6851; color:#ffffff; text-decoration:none; padding:12px 18px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">
+       See Full Calendar & RSVP
+    </a>
+  </td>
+</tr>
+
+
+            <!-- ROSE SEPARATOR -->
+            <tr>
+              <td align="center" style="padding:18px 0;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ===== Recent Highlights (white card) ===== -->
+            <tr>
+              <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Recent Highlights</div>
+                <div style="height:12px;"></div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+                  🍸 Happy Hour Kickoff — great turnout and reconnections.<br>
+                  🗣️ Fall Chapter Meeting — bylaws &amp; budget approved; officer team launched.<br>
+                  💖 Supporting Alpha Chapter Philanthropy — sisters joined to raise funds for arthritis research.
+                </div>
+                <div style="font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#55565A;"><em>[ Photo placeholders — drop in 2–3 images here ]</em></div>
+              </td>
+            </tr>
+
+            <!-- ROSE SEPARATOR -->
+            <tr>
+              <td align="center" style="padding:18px 0;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                    <td style="padding:0 6px;"><img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="52" height="52" alt="" style="display:block; opacity:.12; border:0;"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- ===== Foundation (white card) ===== -->
+            <tr>
+              <td style="background:#FFFFFF; border:1px solid #DBD9D6; border-radius:8px; padding:24px;">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td valign="top">
+                      <div style="font-family:Arial,Helvetica,sans-serif; font-size:20px; color:#C22032; font-weight:700;">Foundation Update — Giving Tuesday (Dec 2)</div>
+                      <div style="height:10px;"></div>
+                      <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A; line-height:1.6;">
+                        <strong>Save the Date!</strong> Giving Tuesday supports the <strong>AOII Foundation</strong> through the <strong>Loyalty Fund</strong> and <strong>Fraternity Grants</strong>.
+                        <br><br>
+                        <strong>Loyalty Fund — Supporting Areas of Greatest Need:</strong> Unrestricted dollars allow quick response and program administration.
+                        <br>
+                        <strong>Fraternity Grants — Empowering Sisters to Become Leaders:</strong> Benefits collegians and alumnae with impactful leadership programming.
+                      </div>
+                      <div style="height:12px;"></div>
+                      <a href="#" target="_blank" style="background:#EB6851; color:#ffffff; text-decoration:none; padding:12px 18px; border-radius:6px; font-family:Arial,Helvetica,sans-serif; font-weight:700; display:inline-block;">Learn More / Give</a>
+                      <div style="height:12px;"></div>
+                      <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#55565A;">Questions? Barbara Dannenberg serves on the Foundation Board and is happy to talk about all things AOII.</div>
+                    </td>
+                    <td width="72" align="right" valign="top">
+                      <img src="https://raw.githubusercontent.com/edasilva1/aoiinewsletter/main/AOII_Rose_64.png" width="56" height="56" alt="" style="display:block; opacity:.12; border:0;">
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- FOOTER (pink background still visible outside) -->
+            <tr>
+              <td align="center" style="padding:22px 10px 30px 10px; font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#55565A;">
+                <div style="margin-bottom:8px;">
+                  <strong>Instagram:</strong> <a href="https://www.instagram.com/nycaoii" style="color:#C22032; text-decoration:none;">@nycaoii</a> &nbsp; • &nbsp;
+                  <strong>Facebook Group:</strong> <a href="#" style="color:#C22032; text-decoration:none;">NYC AOII Alumnae Chapter</a> &nbsp; • &nbsp;
+                  <strong>Email:</strong> <a href="mailto:nycappresident@gmail.com" style="color:#C22032; text-decoration:none;">nycappresident@gmail.com</a>
+                </div>
+                © NYC AOII Alumnae Chapter • Inspire Ambition
+              </td>
+            </tr>
+
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
